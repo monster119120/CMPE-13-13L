@@ -1,0 +1,20 @@
+all:rpg
+
+rpg: Player.o Game.o rpg.o
+	gcc -o rpg Player.o Game.o rpg.o
+
+Player.o: Player.c
+	gcc -c Player.c
+
+Game.o: Game.c
+	gcc -c Game.c
+
+rpg.o: rpg.c
+	gcc -c rpg.c
+
+clean:
+	rm *.o rpg.exe
+
+
+
+
