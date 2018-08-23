@@ -1,5 +1,5 @@
 # CMPE-13-13L
-Labs from CMPE 13/L, all of which use C. Taken in Winter Quarter 2016 at UCSC with Max Dunne.
+Labs from CMPE 13/L, all of which use C and the Uno32 Development Kit. Taken in Winter Quarter 2016 at UCSC with Max Dunne.
 
 ## Class Description
 **CMPE 13: Computer Systems and C Programming**
